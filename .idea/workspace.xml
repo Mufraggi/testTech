@@ -25,10 +25,8 @@
       <change afterPath="$PROJECT_DIR$/../libray/src/views/Posts.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../libray/src/views/Register.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/applocation.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/url_mapping.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/domain/article/article_dao.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/utils/date_utils/date_utils.go" afterDir="false" />
     </list>
