@@ -14,6 +14,9 @@ go get -u github.com/gin-gonic/gin
 go get -u gorm.io/gorm
 go get -u gorm.io/driver/sqlite
 
+To run this project you need to do:
+
+go run main.go
 
 You can find three end points operational and one another not finish.
 
@@ -41,6 +44,8 @@ With this body in raw
 {
     "word":"plage"
 }
+
+
 
 Thank you for your time,
 Looking forward to hearing from you 
